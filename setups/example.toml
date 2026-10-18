@@ -1,0 +1,10 @@
+distro = "arch"
+window_managers = ["i3"]
+apps = ["base", "networkmanager", "pipewire", "git", "firefox", "kitty"]
+notes = [
+    "example: Arch with i3 and a few apps. Copy it, name it after what the system is for, make it yours.",
+]
+
+[install]
+timezone = "UTC"
+locale = "en_US.UTF-8"
