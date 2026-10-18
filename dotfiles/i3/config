@@ -2,7 +2,7 @@
 # Mod key = Super (Windows key)
 set $mod Mod4
 
-# Font — small, clean
+# Font, small, clean
 font pango:DejaVu Sans Mono 9
 
 # ─── Autostart ───
