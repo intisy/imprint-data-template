@@ -8,3 +8,7 @@ notes = [
 [install]
 timezone = "UTC"
 locale = "en_US.UTF-8"
+
+[[hooks]]
+stage = "firstboot"
+script = "hooks/example.sh"
